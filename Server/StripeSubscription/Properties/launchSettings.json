@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StripeSubscription": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --build --port 7132 --cors * --pause-on-error"
+    }
+  }
+}
